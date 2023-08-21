@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @psvel6672
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in solving problems through programming.
+- 🌱 I’m currently learning python dev.
+- 💞️ I’m looking to collaborate on python community.
 - 📫 Reach me :: psthamizhan02@gmail.com
 
 <!---
