@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @psvel6672
 - 👀 I’m interested in solving problems through programming.
-- 🌱 I’m currently learning python dev.
-- 💞️ I’m looking to collaborate on python community.
+- 🌱 I’m currently learning latest dev.
+- 💞️ I’m looking to collaborate on MERN, JavaScript and TypeScript community.
 - 📫 Reach me :: psthamizhan02@gmail.com
 
 <!---
